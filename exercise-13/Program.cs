@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите трехзначное число");
+﻿Console.WriteLine("Введите число");
 string name = Console.ReadLine();
 int number = Convert.ToInt32(name);
 int numbertThree = 0;
